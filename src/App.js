@@ -16,6 +16,7 @@ provides with progress updates
 
 */
 
+//Please install all the packages using npm install before launching the application
 
 
 import React from 'react';
